@@ -1,12 +1,12 @@
-Example of PERC20 (Private ERC20)
+# 📁 Example of PERC20 (Private ERC20)
 
 This project demonstrates a basic PERC20 contract without comprehensive access-control logic. The main differences between ERC20 and PERC20 are protected balanceOf function and disabled Transfer and Approval events
 
-Build
+## Build
 To compile contracts, use the following command:
-
 npm run compile
-Testing & Deployment
+
+## Testing & Deployment
 NOTE: tests are not compatible with hardhat network/ganache, so you have to start the Swisstronik local node or use public testnet
 
 Create .env file from the example
