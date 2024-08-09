@@ -1,0 +1,1 @@
+# swisstronic-mint-perc20
